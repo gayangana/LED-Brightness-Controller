@@ -1,8 +1,10 @@
 # LED-Brightness-Controller
 LED brightness controller with constant current LED drivers
 
-<img src="https://github.com/gayangana/LED-Brightness-Controller/blob/main/Images/LED%20Controller%20PCB.jpg" width="250" height="250">
-
+<p align="center">
+  <img src="https://github.com/gayangana/LED-Brightness-Controller/blob/main/Images/LED%20Controller%20PCB.jpg">
+<p>
+  
 ## Features
 - Operates at 12V singal supply
 - 2 Ouput channels
@@ -16,12 +18,15 @@ LED brightness controller with constant current LED drivers
 
 ## Top Level Block Diagram
 
-<img src="https://github.com/gayangana/LED-Brightness-Controller/blob/main/Images/Top%20Level%20Block%20Diagram.png" width="320" height="255">
+<p align="left">
+  <img src="https://github.com/gayangana/LED-Brightness-Controller/blob/main/Images/Top%20Level%20Block%20Diagram.png" width="320" height="255">
+<p>
 
 ## Power Supply Unit - Block Diagram
 
-<img src="https://github.com/gayangana/LED-Brightness-Controller/blob/main/Images/Power%20Supply%20Block%20Diagram.png" width="450" height="255">
-
+<p align="left"> 
+  <img src="https://github.com/gayangana/LED-Brightness-Controller/blob/main/Images/Power%20Supply%20Block%20Diagram.png" width="450" height="255">
+<p>
 
 
 
